@@ -96,8 +96,10 @@ The project evaluates the impact of each dimensionality reduction technique on t
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-repo/housing-price-prediction.git
+   ---
     ```bash
    pip install -r requirements.txt
+   ----
     ```bash
    jupyter notebook SVM_DR.ipynb
 
